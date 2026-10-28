@@ -1,6 +1,6 @@
 {
   "name": "vite-hugo-plugin",
-  "version": "5.1.0",
+  "version": "5.2.0",
   "description": "Plugin that makes it easy to have hugo with vite",
   "scripts": {
     "build": "tsup"
@@ -18,7 +18,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DcBD/vite-hugo-plugin.git"
+    "url": "git+https://github.com/Arad1el/vite-hugo-plugin.git"
   },
   "keywords": [
     "vite",
@@ -28,9 +28,9 @@
   "author": "Dawid Prośba",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/DcBD/vite-hugo-plugin/issues"
+    "url": "https://github.com/Arad1el/vite-hugo-plugin/issues"
   },
-  "homepage": "https://github.com/DcBD/vite-hugo-plugin#readme",
+  "homepage": "https://github.com/Arad1el/vite-hugo-plugin#readme",
   "types": "./dist/index.d.ts",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
